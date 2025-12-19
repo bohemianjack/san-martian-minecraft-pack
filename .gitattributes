@@ -1,4 +1,3 @@
-*.toml text eol=lf
 *.toml binary
 index.toml binary
 pack.toml binary
