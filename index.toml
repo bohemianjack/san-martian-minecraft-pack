@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/Geyser-Fabric.jar"
-hash = "aa00ec67c76c3cb93e6fe89592dae84b5cd2be860004989b8ccbed0463c8b397"
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "140cdf4490191191625b37ddf04470a88c882cc111ec00db23ae38b04d1ddfe2"
 metafile = true
@@ -31,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser-fabric.pw.toml"
-hash = "d16c9cf51b75815a8482b7e69c676371ae0d7617750cafd5a0c73028a2b1a7e8"
+hash = "3f7bbbf0e751336d1addd7f23b577c1ec955545a948da9fc262b44ba76d54f85"
 metafile = true
 
 [[files]]
