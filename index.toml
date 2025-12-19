@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6a786850f0b8c1533cb03f58cffb53f09d86bea818a61c7aaa938a0e57751344"
+hash = "446f8047ee9168b65fe9d4600f82cb915c7aa0d0f049a344177ba340a5b93a8a"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "de2573d92b8ab017d17dd04c234a9e7b4d068de6bed85baecf3f9225f442da13"
+hash = "26f1136d851da18ad1c5dea577706c3655fa90b69a99c51a141728e7fc1a7691"
 metafile = true
 
 [[files]]
