@@ -1,0 +1,8 @@
+name = "Geyser-Fabric"
+filename = "Geyser-Fabric.jar"
+side = "server"
+
+[download]
+url = "https://download.geysermc.org/v2/projects/geyser/versions/latest/builds/latest/downloads/fabric"
+hash-format = "sha256"
+hash = "none" # Packwiz refresh will fix this automatically
