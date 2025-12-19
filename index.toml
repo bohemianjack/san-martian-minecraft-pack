@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "aa00ec67c76c3cb93e6fe89592dae84b5cd2be860004989b8ccbed0463c8b397"
+hash = "0fbc970fe854f81bed5bcb4890853104bec80fb110afb02e6a64e93ab3ffd9b9"
 metafile = true
 
 [[files]]

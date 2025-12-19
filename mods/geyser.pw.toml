@@ -3,6 +3,11 @@ filename = "Geyser-Fabric.jar"
 side = "server"
 
 [download]
-url = "https://download.geysermc.org/v2/projects/geyser/versions/2.4.4/builds/716/downloads/fabric"
+url = "https://cdn.modrinth.com/data/gv9geY71/versions/rF96jX6F/Geyser-Fabric.jar"
 hash-format = "sha256"
 hash = "aa00ec67c76c3cb93e6fe89592dae84b5cd2be860004989b8ccbed0463c8b397"
+
+[update]
+[update.modrinth]
+mod-id = "gv9geY71"
+version = "rF96jX6F"
