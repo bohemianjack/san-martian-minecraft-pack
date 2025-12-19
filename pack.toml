@@ -1,0 +1,16 @@
+name = "SanMartianGamingServer"
+author = "bohemianjack"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a22b9a8325a9803f94f59a9a64780a98088aea408fae07a321757643a16a4eae"
+
+[versions]
+fabric = "0.18.3"
+minecraft = "1.21.1"
+
+[options]
+acceptable-game-versions = ["1.21,1.21.2,1.21.3,1.21.4", "1.21.x,1.21.1,1.21.4"]
