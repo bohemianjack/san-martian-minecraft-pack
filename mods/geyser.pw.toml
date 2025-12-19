@@ -1,7 +1,8 @@
 name = "Geyser-Fabric"
 filename = "Geyser-Fabric.jar"
-side = "server"
+side = "both"
 
 [download]
-url = "https://download.geysermc.org/v2/projects/geyser/versions/latest/builds/latest/downloads/fabric"
+url = "https://download.geysermc.org/v2/projects/geyser/versions/2.4.4/builds/716/downloads/fabric"
 hash-format = "sha256"
+hash = "aa00ec67c76c3cb93e6fe89592dae84b5cd2be860004989b8ccbed0463c8b397"
